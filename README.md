@@ -1,4 +1,4 @@
-# The Housing Price project is a market research analysis exercise. 
+The Housing Price project is a market research analysis exercise. 
 The data set is based on 2006 housing price data in Saratoga County, New York.
 In 2006, the medium housing price in Saratoga was $189,900. Nowadays, the median housing price is $314,000 (+65% increase).
 The study looks into two categorical factors, fuel type and waterfront location and see to what extent will these two factors 
